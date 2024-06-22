@@ -1,0 +1,43 @@
+.mainDiv {
+  margin: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  /* background-color: red; */
+  height: 100vh;
+}
+.para1 {
+  font-size: 50px;
+  font-family: "Playwrite ID", cursive;
+}
+.imgDiv {
+  display: flex;
+  justify-content: center;
+}
+.input {
+  height: 400px;
+  width: 400px;
+  border-radius: 50%;
+  /* background-color: transparent; */
+  font-size: 40px;
+  color: black;
+  border-style: dotted;
+  text-align: center;
+  box-shadow: 0px 10px 5px rgba(0, 0, 0, 0, 0.3);
+  padding: 5px;
+  font-family: "Pacifico", cursive;
+}
+.navDiv {
+  background-color: white;
+  height: 100px;
+}
+.innerPara {
+  margin: 0px;
+  text-align: center;
+  font-size: 70px;
+  font-weight: bold;
+}
+.navDiv {
+  border-bottom: solid;
+}
